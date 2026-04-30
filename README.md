@@ -20,6 +20,8 @@
     Costruito con Vue 3, Vite e Tailwind CSS.
     <br />
     <a href="https://github.com/AntonioDS1/vue-tictactoe"><strong>Visita la repository »</strong></a>
+    <br />
+    <a href="https://github.com/AntonioDS1/vue-tictactoe](https://vue-tictactoe-two.vercel.app"><strong>Visita la demo »</strong></a>
     <br /><br />
     <a href="https://github.com/AntonioDS1/vue-tictactoe/issues">Segnala un Bug</a>
     ·
@@ -149,6 +151,13 @@ src/
 
 
 👉 [https://github.com/AntonioDS1/vue-tictactoe](https://github.com/AntonioDS1/vue-tictactoe)
+
+
+
+🔹 **Vercel**
+
+
+👉 [[https://github.com/AntonioDS1/vue-tictactoe](https://vue-tictactoe-two.vercel.app/)]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
