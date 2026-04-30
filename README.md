@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/AntonioDS1/vue-tictactoe">
-    <img src="public/og-image.png" alt="TicTacToe Logo" width="160">
+    <img src="public/favicon.ico" alt="TicTacToe Logo" width="160">
   </a>
 
   <h3 align="center">TicTacToe</h3>
