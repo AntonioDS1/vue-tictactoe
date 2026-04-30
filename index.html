@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>TicTacToe – Sfida i tuoi amici!</title>
+
+    <!-- SEO -->
+    <meta
+      name="description"
+      content="Un TicTacToe minimalista con effetti visivi e sonori. Sfida un amico in modalità multigiocatore con un'interfaccia coinvolgente."
+    />
+    <meta name="author" content="Antonio De Siena" />
+
+    <!-- Canonical -->
+    <link rel="canonical" href="%VITE_SITE_URL%" />
+
+    <!-- Theme color -->
+    <meta name="theme-color" content="#0f172a" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="%VITE_SITE_URL%" />
+    <meta property="og:title" content="TicTacToe – Sfida i tuoi amici!" />
+    <meta
+      property="og:description"
+      content="Un TicTacToe minimalista con effetti visivi e sonori. Sfida un amico in modalità multigiocatore."
+    />
+    <meta property="og:image" content="/og-image.png" />
+    <meta property="og:site_name" content="TicTacToe" />
+    <meta property="og:locale" content="it_IT" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="%VITE_SITE_URL%" />
+    <meta name="twitter:title" content="TicTacToe – Sfida i tuoi amici!" />
+    <meta
+      name="twitter:description"
+      content="Un TicTacToe minimalista con effetti visivi e sonori. Sfida un amico in modalità multigiocatore."
+    />
+    <meta name="twitter:image" content="/og-image.png" />
+
+    <!-- Icon -->
+    <link rel="shortcut icon" href="/favicon.ico" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+
+  </head>
+
+  <body>
+    <div id="app"></div>
+    <video autoplay muted loop id="bg">
+      <source src="./src/assets/images/Sfondo.mp4" type="video/mp4" />
+    </video>
+    <audio id="bg-audio" loop>
+      <source src="./src/assets/Audio/AudioSottofondo.mp3" type="audio/mpeg" />
+    </audio>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
