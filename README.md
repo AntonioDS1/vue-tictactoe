@@ -157,7 +157,7 @@ src/
 🔹 **Vercel**
 
 
-👉 [[https://github.com/AntonioDS1/vue-tictactoe](https://vue-tictactoe-two.vercel.app/)]
+👉 [[https://vue-tictactoe-two.vercel.app/](https://vue-tictactoe-two.vercel.app/)]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
